@@ -1,5 +1,5 @@
 import { useRecoilState, useRecoilValue, useResetRecoilState } from "recoil"
-import { count, fontSizeSelector } from "./recoil"
+import { count, fontSizeSelector } from "../recoil"
 
 
 export default function Home() {
